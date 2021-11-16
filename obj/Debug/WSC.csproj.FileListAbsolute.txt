@@ -1,0 +1,9 @@
+C:\Users\Мвидео\Desktop\projects\WSC\bin\Debug\WSC.exe.config
+C:\Users\Мвидео\Desktop\projects\WSC\bin\Debug\WSC.exe
+C:\Users\Мвидео\Desktop\projects\WSC\bin\Debug\WSC.pdb
+C:\Users\Мвидео\Desktop\projects\WSC\obj\Debug\WSC.csprojAssemblyReference.cache
+C:\Users\Мвидео\Desktop\projects\WSC\obj\Debug\WSC.mainView.resources
+C:\Users\Мвидео\Desktop\projects\WSC\obj\Debug\WSC.csproj.GenerateResource.cache
+C:\Users\Мвидео\Desktop\projects\WSC\obj\Debug\WSC.csproj.CoreCompileInputs.cache
+C:\Users\Мвидео\Desktop\projects\WSC\obj\Debug\WSC.exe
+C:\Users\Мвидео\Desktop\projects\WSC\obj\Debug\WSC.pdb
